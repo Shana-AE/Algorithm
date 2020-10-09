@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/usr/lib/jvm/java-14-openjdk-amd64/lib/algs4/algs4.jar"
+  ]
+}
